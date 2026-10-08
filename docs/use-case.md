@@ -1,13 +1,15 @@
 # Use Cases
 
-## User
-- Register
-- Login
-- View information
-- Add data
-
 ## Administrator
-- Manage users
-- Add data
-- Edit data
-- Delete data
+
+- Жүйеге кіру
+- Жаңа студентті тіркеу
+- Студенттер тізімін көру
+- Студент туралы ақпаратты көру
+- Студент мәліметтерін өзгерту
+- Студентті жүйеден жою
+
+## Student
+
+- Өзінің жеке мәліметтерін көру
+- Тіркелу жағдайын тексеру

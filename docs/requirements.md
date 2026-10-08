@@ -1,13 +1,12 @@
-# Requirements
+# System Requirements
 
-## Functional requirements
+## Functional Requirements
 
-1. User registration
-2. User login
-3. View information
-4. Add new data
-5. Edit existing data
-6. Delete data
-## Login Requirement
-
-The user must be able to log in using a username and password.
+1. Жүйе жаңа студентті тіркеуге мүмкіндік беруі керек.
+2. Әр студенттің аты-жөні, туған күні және байланыс ақпараты сақталуы керек.
+3. Студенттің факультеті мен мамандығы көрсетілуі керек.
+4. Студент туралы ақпаратты көруге мүмкіндік болуы керек.
+5. Студент мәліметтерін өзгертуге мүмкіндік болуы керек.
+6. Студентті жүйеден жоюға мүмкіндік болуы керек.
+7. Барлық студенттердің тізімін көруге мүмкіндік болуы керек.
+8. Әкімші логин және құпиясөз арқылы жүйеге кіре алуы керек.
